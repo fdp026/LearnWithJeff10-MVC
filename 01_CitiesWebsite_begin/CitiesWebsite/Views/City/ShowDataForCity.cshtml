@@ -17,8 +17,11 @@
         <p>Country: @ViewBag.City.Country</p>
         <p>TimeZone: @ViewBag.City.TimeZone</p>
         <span>
-            src: @Url.Action("GetImage", new { cityName = ViewBag.City.Name})
+            <img src= "@Url.Action("GetImage", new { cityName = ViewBag.City.Name})" />
         </span>
+        <span>
+            @await Html.PartialAsync("_CityPopulation") 
+        </span>    
         <a asp-action="ShowCities">Back</a>
     </div>
 </body>

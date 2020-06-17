@@ -26,3 +26,4 @@ C:\Users\phill_000\Source\Repos\LearnWithJeff10-MVC\01_CitiesWebsite_begin\Citie
 C:\Users\phill_000\Source\Repos\LearnWithJeff10-MVC\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\City\ShowCities.cshtml.g.cs
 C:\Users\phill_000\Source\Repos\LearnWithJeff10-MVC\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\City\ShowDataForCity.cshtml.g.cs
 C:\Users\phill_000\Source\Repos\LearnWithJeff10-MVC\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\phill_000\Source\Repos\LearnWithJeff10-MVC\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CityPopulation.cshtml.g.cs
